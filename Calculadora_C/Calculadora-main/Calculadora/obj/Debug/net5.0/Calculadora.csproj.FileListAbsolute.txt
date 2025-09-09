@@ -1,0 +1,15 @@
+d:\Minhas-Coisas\Estudar\Outras Linguagens\case_calculadora_C\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\net5.0\Calculadora.exe
+D:\Minhas-Coisas\Estudar\Outras Linguagens\case_calculadora_C\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+D:\Minhas-Coisas\Estudar\Outras Linguagens\case_calculadora_C\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+D:\Minhas-Coisas\Estudar\Outras Linguagens\case_calculadora_C\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+d:\Minhas-Coisas\Estudar\Outras Linguagens\case_calculadora_C\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\net5.0\Calculadora.dll
+d:\Minhas-Coisas\Estudar\Outras Linguagens\case_calculadora_C\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+d:\Minhas-Coisas\Estudar\Outras Linguagens\case_calculadora_C\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+d:\Minhas-Coisas\Estudar\Outras Linguagens\case_calculadora_C\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+d:\Minhas-Coisas\Estudar\Outras Linguagens\case_calculadora_C\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+d:\Minhas-Coisas\Estudar\Outras Linguagens\case_calculadora_C\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+d:\Minhas-Coisas\Estudar\Outras Linguagens\case_calculadora_C\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.dll
+d:\Minhas-Coisas\Estudar\Outras Linguagens\case_calculadora_C\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\refint\Calculadora.dll
+d:\Minhas-Coisas\Estudar\Outras Linguagens\case_calculadora_C\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+D:\Minhas-Coisas\Estudar\Outras Linguagens\case_calculadora_C\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
+D:\Minhas-Coisas\Estudar\Outras Linguagens\case_calculadora_C\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
